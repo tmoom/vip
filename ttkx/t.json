@@ -6,7 +6,7 @@
 	"lives": [{
 		    "name": "live",
 		    "type": 0,
-		    "url": "https://usercontent.githubfast.com/raw/tmoom/x/main/live.txt",
+		    "url": "./lib/live.txt",
 		    "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
                     "logo": "https://epg.112114.xyz/bingimg/logo/{name}.png"
 	    }],
