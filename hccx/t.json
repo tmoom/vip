@@ -6,7 +6,7 @@
 
 "wallpaper":"http://我不是.肥猫.live/ppic/feimao.php",
 
-//"lives":[{"name":"live","type":0,"url":"http://rihou.vip:88/直播","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}],
+"lives":[{"name":"live","type":0,"url":"./lib/live.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}],
 
 
 
