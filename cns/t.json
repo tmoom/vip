@@ -2,6 +2,16 @@
   "spider": "./fty1113.jar;md5;f6ce0ce7bd8b398540be062ebef7051d",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites": [
+     {
+      "key": "豆瓣",
+      "name": "豆瓣┃影视",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0,
+      "changeable": 1,
+      "ext": "./lib/douban.json",
+      "jar": "./lib/fm1113.jar;md5;18d6103e01c3865caeb7a23e627adb3c"
+    },
     {
       "key": "360影视",
       "name": "360┃官源",
@@ -34,16 +44,7 @@
       "ext": "./lib/jianpian.json",
       "jar": "./lib/fm1113.jar;md5;18d6103e01c3865caeb7a23e627adb3c"
     },
-    {
-      "key": "豆瓣",
-      "name": "豆瓣┃影视",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0,
-      "changeable": 1,
-      "ext": "./lib/douban.json",
-      "jar": "./lib/fm1113.jar;md5;18d6103e01c3865caeb7a23e627adb3c"
-    },
+   
     {
       "key": "新6V",
       "name": "新6V┃磁力",
