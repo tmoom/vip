@@ -56,7 +56,7 @@
       "ext": "./lib/央视经典.json"
     },
 	
-	{"key":"爱奇异","name":"🎦爱奇艺(官)","type":3,"api":"./lib/apiv43drpy2.min.js","ext":"./lib/aiqiyi.js"},
+{"key":"爱奇异","name":"🎦爱奇艺(官)","type":3,"api":"./lib/apiv43drpy2.min.js","ext":"./lib/aiqiyi.js"},
 {"key":"优酷","name":"🎦优酷(官)","type":3,"api":"./lib/apiv43drpy2.min.js","ext":"./lib/youku.js"},
 {"key":"腾讯","name":"🎦腾讯(官)","type":3,"api":"./lib/apiv43drpy2.min.js","ext":"./lib/tengxun.js"},
 {"key":"芒果","name":"🎦芒果(官)","type":3,"api":"./lib/apiv43drpy2.min.js","ext":"./lib/mangguo.js"},
@@ -65,34 +65,7 @@
 {"key":"360影视","name":"🎦360影视(官)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 	
 	
-    {
-      "key": "腾讯",
-      "name": "♻| 少儿频道1",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/腾讯.js"
-    },
-    {
-      "key": "芒果",
-      "name": "♻ | 少儿频道2",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/忙果.js"
-    },
-    {
-      "key": "奇艺",
-      "name": "♻| 少儿频道3",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/异兽.js"
-    },
-    {
-      "key": "优酷",
-      "name": "♻| 少儿频道4",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/优酷.js"
-    },
+   
     {
       "key": "童趣",
       "name": "♻ 童趣",
